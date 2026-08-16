@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+title: "Code and Data for \"Non-local Evolution of Magnetic Helicity across the MHD-Kinetic Interface\""
+type: software
+version: "0.1.0"
+date-released: "2026-08-16"
+
+authors:
+  - family-names: "Iizawa"
+    given-names: "Masatomi"
+    orcid: "https://orcid.org/0000-0002-3735-0616"
+  - family-names: "Narita"
+    given-names: "Yasuhito"
+    orcid: "https://orcid.org/0000-0002-5332-8881"
+  - family-names: "Alberti"
+    given-names: "Tommaso"
+    orcid: "https://orcid.org/0000-0001-6096-0220"
+  - family-names: "Bale"
+    given-names: "Stuart"
+    orcid: "https://orcid.org/0000-0002-1989-3596"
+  - family-names: "Brandenburg"
+    given-names: "Axel"
+    orcid: "https://orcid.org/0000-0002-7304-021X"
+  - family-names: "Chian"
+    given-names: "Abraham"
+    orcid: "https://orcid.org/0000-0002-8932-0793"
+  - family-names: "Comisel"
+    given-names: "Horia"
+    orcid: "https://orcid.org/0000-0002-5028-8482"
+  - family-names: "Matsukiyo"
+    given-names: "Shuichi"
+    orcid: "https://orcid.org/0000-0002-4784-0301"
+  - family-names: "Yokoi"
+    given-names: "Nobumitsu"
+    orcid: "https://orcid.org/0000-0002-5242-7634"
+
+keywords:
+  - "Solar wind"
+  - "Interplanetary magnetic fields"
+  - "Solar physics"
+
+grants:
+  - name: "Deutsche Forschungsgemeinschaft"
+    funder:
+      name: "Deutsche Forschungsgemeinschaft"
+    number: "535057280"
+  - name: "JSPS Grants-in-Aid for Scientific Research"
+    funder:
+      name: "Japan Society for the Promotion of Science"
+    number: "JP23K25895"
