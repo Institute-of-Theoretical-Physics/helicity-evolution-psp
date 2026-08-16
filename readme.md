@@ -1,6 +1,6 @@
 # Code and Data for "Non-local Evolution of Magnetic Helicity across the MHD-Kinetic Interface"
 
-[![DOI](https://zenodo.org/badge/1335505647.svg)](https://doi.org/10.5281/zenodo.21959966)
+[![DOI](https://zenodo.org/badge/1335526282.svg)](https://doi.org/10.5281/zenodo.21960159)
 
 This repository contains the Python scripts and processed datasets required to reproduce the figures (Figures 1 through 4) presented in the paper **"Non-local Evolution of Magnetic Helicity across the MHD-Kinetic Interface"**.
 
