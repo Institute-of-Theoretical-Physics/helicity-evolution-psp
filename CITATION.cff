@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or dataset, please cite it as below."
 title: "Code and Data for \"Non-local Evolution of Magnetic Helicity across the MHD-Kinetic Interface\""
 type: software
-version: "0.1.3"
+version: "0.1.4"
 date-released: "2026-08-16"
 
 authors:
